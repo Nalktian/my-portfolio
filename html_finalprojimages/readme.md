@@ -1,1 +1,10 @@
 This directory has all the images used in the final project.
+![Skills](https://github.com/Nalktian/my-portfolio/assets/155957337/b627dcc5-994f-4d87-975b-17a4792bafd2)
+![Recommendations](https://github.com/Nalktian/my-portfolio/assets/155957337/c46daac0-71c4-48c3-92f6-30761996db0a)
+![Projects](https://github.com/Nalktian/my-portfolio/assets/155957337/72dc47e7-0ef7-49a5-83da-6cb9851b71e5)
+![profile_name](https://github.com/Nalktian/my-portfolio/assets/155957337/f3c617f4-684a-4f7e-94c2-75964f1f619c)
+![popup](https://github.com/Nalktian/my-portfolio/assets/155957337/88326bf4-1b93-4a53-ab19-177f5b8f810e)
+![new_recommendation](https://github.com/Nalktian/my-portfolio/assets/155957337/da1f4507-6c6d-407c-97c5-f6aa0da5b17e)
+![nav_bar](https://github.com/Nalktian/my-portfolio/assets/155957337/0bce5c91-540a-4028-9603-fd11e3c080b1)
+![home_icon](https://github.com/Nalktian/my-portfolio/assets/155957337/6eb60e50-6802-413b-bd3d-80540bd3c8bb)
+![aboutme](https://github.com/Nalktian/my-portfolio/assets/155957337/5dc438f2-d44c-4880-acaa-996b8f926706)
